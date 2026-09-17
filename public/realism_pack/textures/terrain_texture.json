@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "realism_rp",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "realism_charpente": {
+      "textures": "textures/blocks/stripped_oak_log"
+    },
+    "realism_asphalt": {
+      "textures": "textures/blocks/concrete_black"
+    },
+    "realism_dirt_path": {
+      "textures": "textures/blocks/dirt_path_top"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:fog_settings": {
+    "description": {
+      "identifier": "slm:atmosphere_fog"
+    },
+    "distance": {
+      "air": {
+        "fog_start": 48,
+        "fog_end": 192,
+        "fog_color": "#ffa076",
+        "render_distance_type": "render"
+      },
+      "weather": {
+        "fog_start": 24,
+        "fog_end": 80,
+        "fog_color": "#de755c",
+        "render_distance_type": "render"
+      }
+    }
+  }
+}

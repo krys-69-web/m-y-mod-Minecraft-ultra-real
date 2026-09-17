@@ -1,0 +1,6 @@
+{
+  "name": "REALISM+ 8K Resource Pack Bedrock",
+  "description": "Resource Pack & Addon slm_visual_pack-real pour Minecraft Bedrock Edition (Android) avec eau bleu clair transparente, shaders HDR rose-orangé chauds, PBR Render Dragon et blocs/objets réels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

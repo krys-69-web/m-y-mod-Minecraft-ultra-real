@@ -1,0 +1,18 @@
+{
+  "resource_pack_name": "realism_rp",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "realism_smartphone": {
+      "textures": "textures/items/compass_item"
+    },
+    "realism_paintbrush": {
+      "textures": "textures/items/brush"
+    },
+    "realism_road_builder": {
+      "textures": "textures/items/road_builder"
+    },
+    "realism_bridge_spawner": {
+      "textures": "textures/items/bridge_spawner"
+    }
+  }
+}

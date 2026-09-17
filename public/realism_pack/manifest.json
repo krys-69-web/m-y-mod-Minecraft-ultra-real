@@ -1,0 +1,37 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "slm_visual_pack-real",
+    "description": "slm_visual_pack-real : Textures HD 128x, eau bleu clair ultra-transparente pour voir le fond, PBR Render Dragon et shaders chauds rose orangé HDR avec contraste renforcé.",
+    "uuid": "ea9a1632-2bf2-4d84-bebe-dadc2d393423",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "slm_visual_pack-real Resource Pack Bedrock Edition",
+      "type": "resources",
+      "uuid": "604f983f-e02b-464b-bc7b-3163304aa52b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Specialized Bedrock Developer"
+    ],
+    "license": "Custom Free Use",
+    "url": "https://minecraft.net"
+  }
+}
