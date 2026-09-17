@@ -4,9 +4,9 @@
     "description": {
       "identifier": "slm:atmosphere"
     },
-    "sky_color": "#2a3447",
-    "horizon_color": "#ffa278",
-    "sun_color": "#ffebd2",
-    "fog_color": "#ff9e79"
+    "sky_color": "#1F2938",
+    "horizon_color": "#D98C70",
+    "sun_color": "#FFF1D6",
+    "fog_color": "#B98270"
   }
 }
